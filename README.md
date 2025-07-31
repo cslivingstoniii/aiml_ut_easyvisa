@@ -1,7 +1,7 @@
 ---
 title: "EasyVisa"
 emoji: 🛂
-colorFrom: teal
+colorFrom: red
 colorTo: indigo
 sdk: static
 app_file: easyvisa_project.html
